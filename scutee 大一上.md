@@ -46,7 +46,7 @@
 ### 线性代数
 ---
 #### 课程
-研究对象是向量，向量空间（或称线性空间），线性变换和有限维的线性方程组，以上对象广泛地应用在各行业，极大地方便信息计算和表示。首次接触线代，可能会觉得陌生和晦涩，但坚持思考，多动脑筋使用线代解决生活问题，就能领会线代的强大和魅力，推荐两本书籍：《神奇的矩阵》和《线性代数及其应用》。无论老师讲课如何，有时间不妨看一遍magic课程：[麻省理工线性代数公开课](http://open.163.com/special/opencourse/daishu.html)。最后，为更透彻地理解线性代数，推荐几篇入门文章
+研究对象是向量，向量空间（或称线性空间），线性变换和有限维的线性方程组，以上对象广泛地应用在各行业，极大地方便信息计算和表示。首次接触线代，可能会觉得陌生和晦涩，但坚持思考，多动脑筋使用线代解决生活问题，就能领会线代的强大和魅力，推荐两本书籍：《神奇的矩阵》和《线性代数及其应用》。无论老师讲课如何，有时间不妨看一遍magic课程：[麻省理工线性代数公开课地址](http://open.163.com/special/opencourse/daishu.html) 以及 [线性代数笔记地址](https://github.com/zlotus/notes-linear-algebra) 。最后，为更透彻地理解线性代数，推荐几篇入门文章
 - [An Intuitive Guide to Linear Algebra](https://betterexplained.com/articles/linear-algebra-guide/)（只是线代的冰山一角，但能让人更清晰）
 - 孟岩矩阵三篇[上](http://blog.csdn.net/myan/article/details/647511) [中](http://blog.csdn.net/myan/article/details/649018) [下](http://blog.csdn.net/myan/article/details/1865397)
 
