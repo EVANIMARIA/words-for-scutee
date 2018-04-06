@@ -41,7 +41,7 @@
 #### 课程
 课程学习数据结构(数据的组织方法)以及算法分析(算法运行时间空间的估算)，常见的数据结构：数组（Array）、堆栈（Stack）、队列（Queue）、链表（Linked List）、树（Tree）、图（Graph）、堆（Heap）、散列表（Hash），常见的算法：贪婪算法、分治算法、动态规划、随机化算法、回溯算法等以及其应用（老师讲解的内容稍有不同，但建议掌握以上算法）。这门编程课无论对科研还是工作都非常重要，建议把书本的代码实现一遍，而不是简单地调用API。《数据结构by严蔚敏》不差，不过使用《数据结构与算法分析 by Mark Allen Weiss》会更好些，再推荐本简单易懂的书籍《大话数据结构》以及项目[可视化算法](https://visualgo.net/en)， 更重要的是实践，推荐《剑指offer》再配合刷[PAT甲级](https://www.patest.cn/contests/pat-a-practise)或者[leetcode](https://leetcode.com/)（高手请直接前往天梯或者ACM）。【补充】平时有上机课，但老师可能不怎么管，只看交上去的代码和报告。上机课的内容基本对应教学的几个阶段的内容，实现线性表、栈、几个排序算法、树、图的一些搜索等等。侯实华老师的课程是这样的，例程提供包含算法的子函数，学生只需要写主函数调用子函数即可。建议还是把每个算法的代码完整实现出来，这样子实验课较有收获，多点代码经验，考试不至于慌乱。
 
-中期有C++大作业，推荐大家使用一个C++框架：[openFrameworks](http://www.hahack.com/codes/openframeworks-intro/)，封装好openGL图形库，XML、POCO、SOCKET等一系列工具，能够让人在此框架上快速开发出高性能的互动程序。
+中期有C++大作业，推荐大家使用一个C++框架：[openFrameworks](http://www.hahack.com/codes/openframeworks-intro/)，封装好openGL图形库，XML、POCO、SOCKET等一系列工具，能够让人在此框架上快速开发出高性能的互动程序。本人一般使用Visual Studio 2017 Community调试C++工程，使用Dev CPP跑C++算法题。
 
 #### 应试
 难度：4颗星
