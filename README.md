@@ -2,7 +2,7 @@
 
 ## :sunflower:项目简介:sunflower:
 
-在下就读于华南理工大学信息工程专业，平时对专业课程和大学生活有些记录和思考，写下总结文章《words for scutee》，仅供后来人参考，一方面减轻大学生的信息不对称，另一方面便于在下总结本科课程。
+在下就读于华南理工大学信息工程专业，平时对专业课程和大学生活有些记录和思考，写下总结文章《words for scutee》并邀请朋友们来修改补充。
 
 创作六篇文章不易，请允许在下对这几篇文章提几点说明：
 
@@ -11,19 +11,16 @@
 - 第三点是，文章的本意在于提供更多的课程信息，用于改善本科规划；建议大家多花时间从中收集、思考出有用信息，而非吹嘘或者贬低文章。
 - 第四点是，文章多少涉及谈论老师的内容，出现恶意之处请指正，为避免纠纷，请勿向老师透漏文章内容。
 
-如果想下载最新资料，请使用普通只读帐号登录ftp服务器进行下载，百度网盘的资料不再更新。目前资料所在的ftp服务器的IPv6地址是: `2001:250:3000:4b30:c9dc:e263:e9f0:8567`，IPv4地址是: `125.217.235.66`，学校会提供全天免费的IPv6网络（南校、北三、北四有效，北十三无效，因此北十三使用IPv4网络），只要用网线连接电脑与墙壁端口即可获取。无线网没有提供IPv6网络，有线网会提供IPv6网络，因此需要用网线接入。
+如果大家想了解这个仓库，可以到 [Wiki栏](https://github.com/Sampson-Lee/words-for-scutee/wiki) 查看四篇文章：
 
-连接ftp服务器的步骤：连接网线=>资源管理器输入（或者说，打开任意文件夹，在地址栏输入）：`ftp://[2001:250:3000:4b30:c9dc:e263:e9f0:8567]/`或者：`ftp://125.217.235.66/`=>登录，输入普通只读账户的帐号密码
+- [简介](https://github.com/Sampson-Lee/words-for-scutee/wiki/1.-%E7%AE%80%E4%BB%8B)：大致介绍整个仓库创建的过程和展望
+- [网络](https://github.com/Sampson-Lee/words-for-scutee/wiki/2.-%E7%BD%91%E7%BB%9C)：分享ipv6的使用和科学上网
+- [资料](https://github.com/Sampson-Lee/words-for-scutee/wiki/3.-%E8%B5%84%E6%96%99)：仓库会提供大学前三年的学业资料
+- [建设](https://github.com/Sampson-Lee/words-for-scutee/wiki/4.-%E5%BB%BA%E8%AE%BE)：期盼有心的朋友按照其中方法共同建设仓库
 
-普通只读账户：
-- 帐号是：`scutee`
-- 密码是：`scutee@ftp`
-- 主机ipv6地址为：`2001:250:3000:4b30:c9dc:e263:e9f0:8567`
-- 主机ipv4地址为：`125.217.235.66/`
 
-该系列文章会持续更新，如果您有更好的见解或者更好的资料愿意分享，可以参考[wiki中contribute的内容](https://github.com/Sampson-Lee/words-for-scutee/wiki/Contribute)对项目改善，如果有疑问不妨直接*issue*或者与我联系，我的邮箱是：*li.xin.peng@qq.com*
+该系列文章会持续更新，如果您有更好的见解或者更好的资料愿意分享，或者有疑问和需要帮助的地方，不妨直接*issue*或者与我联系，我的邮箱是：*li.xin.peng@qq.com*
 
-> 除注明外，所有文章均采用 [Creative Commons BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)（自由转载-保持署名-非商用-禁止演绎）协议发布
 
 ## :kissing_heart:致谢:kissing_heart:
 
@@ -36,3 +33,6 @@
 @16级何铮、@16级刘欣然、@16级钟淑莹、@16级阳欣怡
 
 @17级郑晓雯
+
+
+> 除注明外，所有文章均采用 [Creative Commons BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)（自由转载-保持署名-非商用-禁止演绎）协议发布
